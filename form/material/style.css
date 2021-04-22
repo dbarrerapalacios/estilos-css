@@ -7,6 +7,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  margin: 0;
   background: rgb(57, 63, 151);
   background: url(fondo.jpg);
   background-repeat: no-repeat;
