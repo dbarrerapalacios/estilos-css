@@ -24,3 +24,6 @@ Este proyecto está bajo la Licencia MIT
 
 ---
 ⌨️ con ❤️ por [dbarrerapalacios](https://github.com/dbarrerapalacios) 😊
+
+
+  * **meet** - [dbarrerapalacios](https://teams.microsoft.com/l/meetup-join/19%3ameeting) 
